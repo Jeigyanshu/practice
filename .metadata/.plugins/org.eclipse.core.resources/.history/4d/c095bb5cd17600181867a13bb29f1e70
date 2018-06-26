@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package com.askcorporation.test;
+
+/**
+ * @author jeigy
+ *
+ */
+public class TestInheritance {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

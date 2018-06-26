@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.askcorporation.test.TestInheritance&apos; to &apos;ParentClass&apos;&#x0D;&#x0A;- Original project: &apos;TestProject1&apos;&#x0D;&#x0A;- Original element: &apos;com.askcorporation.test.TestInheritance&apos;&#x0D;&#x0A;- Renamed element: &apos;com.askcorporation.test.ParentClass&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TestInheritance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.askcorporation.test{TestInheritance.java[TestInheritance" matchStrategy="1" name="ParentClass" qualified="false" references="true" similarDeclarations="false" stamp="1529751083814" textual="false" version="1.0"/>
+</session>

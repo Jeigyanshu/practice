@@ -1,0 +1,10 @@
+package com.anshu.collection;
+
+public class TreeSetDemo {
+
+	public static void main(String[] args) {
+		TreeSet ts=new TreeSetDemo();
+
+	}
+
+}

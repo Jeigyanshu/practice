@@ -1,0 +1,20 @@
+package com.anshu.collection;
+
+import java.util.Iterator;
+import java.util.TreeSet;
+import java.util.Vector;
+
+public class TreeSetDemo {
+
+	public static void main(String[] args) {
+		TreeSet ts=new TreeSet();
+		Vector vc=new Vector();
+		ts.add("Ziggy");
+		ts.add("Anshu");
+		ts.add("Jeigyanshu");
+		System.out.println(ts);
+		Iterator itr=ts.iterator();
+		Iterator itr1=vc.iterator();
+	}
+
+}

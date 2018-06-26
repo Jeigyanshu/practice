@@ -1,0 +1,10 @@
+package com.anshu.collection;
+
+public class LinkedHashSetDemo1 {
+
+	public static void main(String[] args) {
+		LinkedHashSet<String> lhs= new LinkedHashSetDemo1()
+
+	}
+
+}

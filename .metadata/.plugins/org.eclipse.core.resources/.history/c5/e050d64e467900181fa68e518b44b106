@@ -1,0 +1,10 @@
+package com.askcorporation.test;
+
+import java.util.LinkedHashSet;
+
+public class ChildClass {
+
+	public void getMessage() {
+		LinkedHashSet lhs=new LinkedHashSet(); 
+	}
+}

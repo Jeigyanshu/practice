@@ -1,0 +1,12 @@
+package com.askcorporation.test;
+
+import java.io.File;
+import java.io.FileInputStream;
+
+public class CheckedException {
+
+	public static void main(String[] args) {
+		File f= new File("C:\\test");
+		FileInputStream fin=new FileInputStream(f);
+	}
+}

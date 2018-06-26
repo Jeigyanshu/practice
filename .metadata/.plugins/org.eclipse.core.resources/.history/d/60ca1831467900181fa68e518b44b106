@@ -1,0 +1,8 @@
+package com.askcorporation.test;
+
+public class ChildClass extends ParentClass{
+
+	public void getMessage() {
+		System.out.println("Child Class");
+	}
+}

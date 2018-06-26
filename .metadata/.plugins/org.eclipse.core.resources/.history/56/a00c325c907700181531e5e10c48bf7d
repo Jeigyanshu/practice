@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+package com.askcorporation.test;
+
+/**
+ * @author jeigy
+ *
+ */
+public class ParentClass {
+
+	public static String test="Java Test";
+	
+	public static void main(String[] args) {
+		System.out.println(test);
+	}
+
+}

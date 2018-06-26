@@ -1,0 +1,10 @@
+package com.askcorporation.test;
+
+import java.io.File;
+
+public class CheckedException {
+
+	public static void main(String[] args) {
+		File f= new File("C:\\test");
+	}
+}
